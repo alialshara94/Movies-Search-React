@@ -63,7 +63,7 @@ small {
 }
 
 .button:hover {
-  background-color: rgba(116, 54, 54, 0.877);
+  background-color: rgba(84, 84, 84, 0.877);
 }
 
 @media (min-width:786px){
@@ -87,7 +87,7 @@ small {
   border-radius: 10px;
   box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.349);
   margin-bottom: 2rem;
-  background-color: #decdc3;
+  background-color: rgb(255, 238, 238);
 }
 
 .card--title {

@@ -37,7 +37,7 @@ small {
 }
 
 .label {
-  font-size: 1.2rem;
+  font-size: 3rem;
   margin-bottom: 0.2rem;
   text-transform: uppercase;
 }
@@ -52,10 +52,10 @@ small {
 }
 
 .button {
-  background-color: #ea5455;
+  background-color: rgba(0,0,0,0.75);
   color: white;
   padding: 1rem 2rem;
-  border: 1px solid #ea5455;
+  border: 1px solid rgba(0,0,0,0.75);
   border-radius: 20px;
   font-size: 1.4rem;
   cursor: pointer;
@@ -63,7 +63,7 @@ small {
 }
 
 .button:hover {
-  background-color: rgba(116, 54, 54, 0.877);
+  background-color: rgba(0, 0, 0, 0.678);
 }
 
 @media (min-width:786px){
@@ -87,7 +87,7 @@ small {
   border-radius: 10px;
   box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.349);
   margin-bottom: 2rem;
-  background-color: #decdc3;
+  background-color: rgb(255, 238, 238);
 }
 
 .card--title {
